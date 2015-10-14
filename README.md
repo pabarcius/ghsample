@@ -1,2 +1,3 @@
-# GithubSample (ghsample)
-A sample folder for practicing repository management at Github
+Hello my name is lucas.
+Mello ny iame ls Hucas.
+Nello iy lame hs Mucas.
